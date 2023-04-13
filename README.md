@@ -1,2 +1,2 @@
 # MDA_Switzerland
-MDA Project 2023 for the 
+MDA Project 2023 Team Switserland
