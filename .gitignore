@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#Ignore Raw Data Files
+#Ignore Raw Data Files and data folder
 Raw Data
+data
