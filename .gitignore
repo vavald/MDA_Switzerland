@@ -135,3 +135,10 @@ Data Cleaning/Raw Data/Weather Data/MANIFEST.TXT
 Data Cleaning/Raw Data/Weather Data/00_README_v4.txt
 Data Cleaning/Raw Data/Weather Data/R
 *.zip
+.DS_Store
+.gitignore
+Valentin/EDA_weather/EDA_weather_cleaned.html
+Valentin/EDA_weather/EDA_weather_sweetviz.html
+.gitignore
+.DS_Store
+Valentin/EDA_weather/EDA_weather.html
