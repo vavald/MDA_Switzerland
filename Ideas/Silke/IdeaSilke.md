@@ -26,4 +26,6 @@ Causes of noise: federal government + possible norms exceeded (Dutch sources)
 **Visualisation ideas:** 
 - Map with coloured ranges of predicted noise (link to something understandable in legend: aeroplane, baby crying etc.)
 - Map with environment: schools/shops/student bars… vs. largest noise levels measured
-
+- Wheater prediction app (give example) → make this for noise, where the different variables like precipitation can remain and just instead of temp use noise
+- Kind of like the earthquake report, where you have spots that ‘pop off’ the map when/where the norms are exceeded
+- Visual weather/noise map with colours
