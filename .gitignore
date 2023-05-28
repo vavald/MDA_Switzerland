@@ -142,3 +142,8 @@ Valentin/EDA_weather/EDA_weather_sweetviz.html
 .gitignore
 .DS_Store
 Valentin/EDA_weather/EDA_weather.html
+Valentin/xgboost_model.pkl
+Valentin (Data Cleaning + Models)/EDA_weather/EDA_weather_cleaned.html
+Valentin (Data Cleaning + Models)/EDA_weather/EDA_weather_sweetviz.html
+Valentin (Data Cleaning + Models)/EDA_weather/EDA_weather.html
+Valentin (Data Cleaning + Models)/models
